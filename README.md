@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravindu Randeepa</h1>
 
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
-![Profile Views](https://komarev.com/ghpvc/?username=KWR-Randeepa&style=flat-square&color=blue)
+[![Profile Views](https://hits.sh/KWR-Randeepa.svg?view=today-total&color=blue)](https://hits.sh/KWR-Randeepa/)
+
 
 
 - 🌱 I’m currently following **BICT degree**
